@@ -1,0 +1,86 @@
+{
+  "penjaga": [
+    {
+      "nama": "Sutanto",
+      "id_penjaga": "00112",
+      "jenis_kelamin": "Laki-laki",
+      "alamat": "Malang",
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "nama": "hendro",
+      "jenis": "laki-laki",
+      "id_penjaga": "111",
+      "alamat": "Mojokerto",
+      "id": 3
+    },
+    {
+      "nama": "Yuda",
+      "jenis": "laki-laki",
+      "id_penjaga": "1113",
+      "alamat": "Mojokerto",
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "nama": "cd",
+      "id": 7
+    },
+    {
+      "nama": "cd",
+      "jenis": "ccd",
+      "id_penjaga": "dcsd",
+      "alamat": "dcsdc",
+      "id": 8
+    },
+    {
+      "nama": "cd",
+      "jenis": "ccd",
+      "id_penjaga": "dcsd",
+      "alamat": "dcsdc",
+      "id": 9
+    },
+    {
+      "nama": "SCs",
+      "jenis": "sacs",
+      "id_penjaga": "45",
+      "alamat": "hh",
+      "id": 10
+    },
+    {
+      "nama": "Sutanto",
+      "id_penjaga": "002",
+      "jenis": "laki-laki",
+      "id": 11
+    },
+    {
+      "nama": "Sutanto",
+      "jenis": "Laki-laki",
+      "id_penjaga": "003",
+      "alamat": "Mojokerto",
+      "id": 12
+    },
+    {
+      "nama": "Yulianto",
+      "id_penjaga": "005",
+      "jenis": "Perempuan",
+      "alamat": "Malang",
+      "id": 13
+    },
+    {
+      "nama": "Sutanto",
+      "jenis": "Perempuan",
+      "id_penjaga": "005",
+      "alamat": "Malang",
+      "id": 14
+    }
+  ]
+}
